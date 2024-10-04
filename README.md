@@ -114,7 +114,9 @@ else:
 ```
 
 ## OUTPUT:
-![alt text](<IMAGE 8.png>)
+
+![image](https://github.com/user-attachments/assets/58fd7e0e-4acf-4e74-8dad-363d167ef60f)
+
 
 <hr>
 <h2>Result:</h2>
